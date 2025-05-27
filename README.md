@@ -5,7 +5,7 @@ SAT - U is a digital solution designed to improve the management of Student Acti
 ## 🚀 Features
 
 - 📥 Submit and upload activity documents directly through the web
-- 🗓️ Easy seminar registration
+- 🗓️ Easy seminar registration, filter, and search seminar by title
 - 🔍 Transparent activity history 
 - 🔗 Integrated with the campus administrative system
 
@@ -23,6 +23,16 @@ SAT - U was developed to address issues in the current SAT system, such as delay
 
 - Laravel (Frontend & Backend)
 - XAMPP (Database)
+
+
+## 📌 Dashboard Preview
+
+### User Dashboard
+![image](https://github.com/user-attachments/assets/08827700-f40f-4bc2-b33b-2127522e0cbe)
+
+### Admin Dashboard
+![image](https://github.com/user-attachments/assets/d9ed7959-95c6-4d4f-a8f2-d8efa4ed592c)
+
 
 ---
 
